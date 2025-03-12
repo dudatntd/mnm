@@ -1,0 +1,15 @@
+/* Navbar chung */
+.navbar {
+    background-color: #212529 !important; /* Màu tối */
+}
+
+/* Navbar Brand */
+.navbar-brand {
+    color: #ba6a6a !important;
+    font-weight: bold;
+}
+
+/* Link trong navbar */
+.navbar-nav .nav-link {
+    color: rgba(218, 107, 107, 0.75)
+}
